@@ -37,7 +37,7 @@ def main():
     )
     
     # Load data
-    data_file = r'C:\Users\casid\OneDrive\Desktop\JUPYTER NOTEBOOK\PROGRAM_TAGOLOAN_DATA.csv'
+    data_file = "PROGRAM_TAGOLOAN_DATA.csv"
     data = load_data(data_file)
     
     # Preprocess the data
